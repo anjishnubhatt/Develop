@@ -1,4 +1,5 @@
 Input data: scanner_data.csv
+This contains to columns each transaction ids and products name purchsed during those transactions
 
 Source: https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions
 
